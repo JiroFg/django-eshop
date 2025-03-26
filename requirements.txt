@@ -1,0 +1,11 @@
+django==5.1.7
+pillow==11.1.0
+celery==5.4.0
+flower==2.0.1
+stripe==11.6.0
+environs==14.1.1
+weasyprint==65.0
+redis==5.2.1
+django-rosetta==0.10.1
+django-parler==2.3
+django-localflavor==4.0

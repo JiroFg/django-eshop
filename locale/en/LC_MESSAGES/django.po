@@ -1,0 +1,129 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-26 14:23-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: cart/forms.py:10
+msgid "Quantity"
+msgstr ""
+
+#: coupons/forms.py:5
+msgid "Coupon"
+msgstr ""
+
+#: django_project/settings.py:162
+msgid "English"
+msgstr ""
+
+#: django_project/settings.py:163
+msgid "Spanish"
+msgstr ""
+
+#: django_project/urls.py:27
+msgid "cart/"
+msgstr ""
+
+#: django_project/urls.py:28
+msgid "orders/"
+msgstr ""
+
+#: django_project/urls.py:29
+msgid "payment/"
+msgstr ""
+
+#: django_project/urls.py:30
+msgid "coupons/"
+msgstr ""
+
+#: payment/urls.py:8
+msgid "process/"
+msgstr ""
+
+#: payment/urls.py:9
+msgid "completed/"
+msgstr ""
+
+#: payment/urls.py:10
+msgid "canceled/"
+msgstr ""
+
+#: templates/orders/order/create.html:4 templates/orders/order/create.html:7
+msgid "Checkout"
+msgstr ""
+
+#: templates/orders/order/create.html:9
+msgid "Your order"
+msgstr ""
+
+#: templates/orders/order/create.html:21
+#, python-format
+msgid "\"%(code)s\" (%(discount)s%% off)"
+msgstr ""
+
+#: templates/orders/order/create.html:27
+msgid "Total"
+msgstr ""
+
+#: templates/orders/order/create.html:33
+msgid "Place order"
+msgstr ""
+
+#: templates/shop/base.html:7 templates/shop/base.html:13
+msgid "My shop"
+msgstr ""
+
+#: templates/shop/base.html:19
+msgid "Your cart"
+msgstr ""
+
+#: templates/shop/base.html:20
+#, python-format
+msgid ""
+"\n"
+"                            %(items)s item, $%(total)s\n"
+"                        "
+msgid_plural ""
+"\n"
+"                        %(items)s items, $%(total)s\n"
+"                        "
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/shop/base.html:27
+msgid "Your cart is empty"
+msgstr ""
+
+#: templates/shop/product/detail.html:19
+msgid "Add to cart"
+msgstr ""
+
+#: templates/shop/product/detail.html:24
+msgid "People who bought this also bought"
+msgstr ""
+
+#: templates/shop/product/list.html:7 templates/shop/product/list.html:28
+msgid "Products"
+msgstr ""
+
+#: templates/shop/product/list.html:12
+msgid "Categories"
+msgstr ""
+
+#: templates/shop/product/list.html:15
+msgid "All"
+msgstr ""
